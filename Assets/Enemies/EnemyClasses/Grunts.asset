@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed2c3d1f08e924418ee3dcf8cce40e9, type: 3}
+  m_Name: Grunts
+  m_EditorClassIdentifier: 
+  groupClass: 0
+  groupTypes:
+  - {fileID: 11400000, guid: dcbee2dbb63b3844dbf978bea3afd6d6, type: 2}
+  - {fileID: 11400000, guid: e79075fca4c4468498ebfe7c34a15338, type: 2}
+  classModifiers:
+    morningModifiers: []
+    noonModifiers:
+    - statType: 0
+      modifierType: 0
+      range1: 1
+      range2: 1
+    nightModifiers: []

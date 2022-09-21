@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9f8107b075446894aa3c52d474bd2076
+  m_SerializeEntries:
+  - m_GUID: 049240fbb76939548997b56233395b30
+    m_Address: Assets/Enemies/EnemyTypes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyTypes
+  - m_GUID: 52c9c9650de8da94383a620e5cb098c5
+    m_Address: Assets/Enemies/EnemyClasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyClasses
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c5851b95639467040bec63859f37b1e8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 49d159493958a6f448f60f44698e31c7, type: 2}
+    - {fileID: 11400000, guid: 4da5f9d8d0d17ec4a9aba7acdc6c87b1, type: 2}
